@@ -1,0 +1,5 @@
+classes= 11
+train  = /home/sepuh/ML/yolov3_train/train.txt
+valid  = /home/sepuh/ML/yolov3_train/val.txt
+names  = /home/sepuh/ML/yolov3_train/voc.names
+backup = /home/sepuh/ML/yolov3_train/backup
